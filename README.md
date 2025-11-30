@@ -11,4 +11,4 @@ This is a small python program that gives an unfair advantage by providing you w
 3.  When it is on you simply hold the LEFT CLICK (the button on your mouse you use to shoot)
 4.  When it is off - nothing happens
 
-:white_check_mark: It works on kernel level so it probably won't be detected by "Easy anti-cheat". Use it on your own risk - not 100% guaranteed. I dind't get banned so that is good. Cheat go brrrrrrrrrrrrrrrrrrrr.
+:white_check_mark: It works on kernel level so it probably won't be detected by "Easy anti-cheat". Use it on your own risk - not 100% guaranteed. I dind't get banned so that is good.
